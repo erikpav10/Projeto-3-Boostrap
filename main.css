@@ -1,0 +1,81 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+
+.navbar {
+    background-color: rgb(0, 0, 0);
+}
+
+
+#cabecalho .nav .nav-link.acctive {
+    background-color: #fff;
+}
+
+#cabecalho .nav .navlink,
+.navbar-brand
+.navbar-brand:hover {
+    color: #fff;
+}
+
+
+.navbar-brand {
+    font-family: "Jersey 10", cursive;
+    color: #fff;
+    font-size: 80px;
+}
+
+.a {
+    color: #fff;
+}
+
+.nav .nav-pills,
+.nav-link {
+    font-size: 20px;
+}
+
+.navbar-toggler { 
+    background-color: #ffeaff;
+}
+
+@media (max-width: 767px) {
+    .carousel-item img {
+        height: 280px;
+    }
+}
+
+.section-title {
+    font-family: "Jersey 10", cursive;
+}
+
+.section-title span {
+    color: rgb(81, 81, 243);
+}
+
+#Sobre-o-restaurante, #cardapio {
+    background-color: rgb(250, 213, 111);
+}
+
+.text-colored {
+    color: rgb(81, 81, 243);
+}
+
+
+.nav-cardapio .nav-link.active {
+    background-color: rgb(245, 179, 0);
+    color: rgb(81, 81, 243);
+}
+
+.nav-cardapio .nav-link:hover {
+    color: rgb(81, 81, 243);
+}
+
+.social-links li {
+    list-style: none;
+    display: inherit
+    ;
+}
+
+.social-links a {
+    text-decoration: none;
+}
